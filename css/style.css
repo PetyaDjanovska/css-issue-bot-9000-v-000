@@ -16,7 +16,7 @@ h2 {
   font-family: 12px;
 }
 
-ul#tasks > li.completed {
+body ul#tasks li.completed {
   background: #ccc;
   text-decoration: underline;
 }
